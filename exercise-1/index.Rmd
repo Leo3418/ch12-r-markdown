@@ -11,9 +11,8 @@ source("exercise.R")
 ```
 
 ## `r headline`
-```
-`r short_summary`
-```
+
+> `r short_summary`
 
 ```{r link, echo=FALSE}
 link_markdown <-
